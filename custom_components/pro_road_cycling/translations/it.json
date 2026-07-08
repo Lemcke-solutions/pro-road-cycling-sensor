@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pro Road Cycling Sensor",
+        "description": "Configura i sensori per le gare ciclistiche professionistiche su strada. I nomi delle gare vengono visualizzati automaticamente nella lingua del tuo Home Assistant."
+      }
+    },
+    "error": {
+      "unknown": "Errore imprevisto"
+    },
+    "abort": {
+      "already_configured": "L'integrazione è già configurata."
+    }
+  }
+}

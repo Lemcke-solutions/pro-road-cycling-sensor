@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pro Road Cycling Sensor",
+        "description": "Configure les capteurs pour les courses cyclistes professionnelles sur route. Les noms des courses s'affichent automatiquement dans la langue de votre Home Assistant."
+      }
+    },
+    "error": {
+      "unknown": "Erreur inattendue"
+    },
+    "abort": {
+      "already_configured": "L'intégration est déjà configurée."
+    }
+  }
+}

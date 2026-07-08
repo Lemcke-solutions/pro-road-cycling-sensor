@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pro Road Cycling Sensor",
+        "description": "Stelt sensoren in voor professionele wielerwedstrijden. Wedstrijdnamen worden automatisch weergegeven in de taal van je Home Assistant."
+      }
+    },
+    "error": {
+      "unknown": "Onverwachte fout"
+    },
+    "abort": {
+      "already_configured": "Integratie is al geconfigureerd."
+    }
+  }
+}

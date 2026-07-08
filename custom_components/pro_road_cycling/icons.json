@@ -1,0 +1,7 @@
+{
+  "entity": {
+    "sensor": {
+      "pro_road_cycling": {"default": "mdi:bicycle"}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pro Road Cycling Sensor",
+        "description": "Setter opp sensorer for profesjonelle landeveissykkelritt. Rittnavn vises automatisk på språket til ditt Home Assistant."
+      }
+    },
+    "error": {
+      "unknown": "Uventet feil"
+    },
+    "abort": {
+      "already_configured": "Integrasjonen er allerede konfigurert."
+    }
+  }
+}

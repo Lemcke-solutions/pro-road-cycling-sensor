@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pro Road Cycling Sensor",
+        "description": "Richtet Sensoren für professionelle Straßenradrennen ein. Rennnamen werden automatisch in der Sprache deines Home Assistant angezeigt."
+      }
+    },
+    "error": {
+      "unknown": "Unerwarteter Fehler"
+    },
+    "abort": {
+      "already_configured": "Integration ist bereits konfiguriert."
+    }
+  }
+}

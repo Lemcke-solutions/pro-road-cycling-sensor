@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Pro Road Cycling Sensor",
+        "description": "Konfigurerer sensorer til professionelle landevejscykelløb. Løbsnavne vises automatisk på dit Home Assistants sprog."
+      }
+    },
+    "error": {
+      "unknown": "Uventet fejl"
+    },
+    "abort": {
+      "already_configured": "Integrationen er allerede konfigureret."
+    }
+  }
+}

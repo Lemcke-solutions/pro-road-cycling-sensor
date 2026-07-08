@@ -1,0 +1,2616 @@
+{
+  "year": 2026,
+  "last_updated": "2026-07-06",
+  "races": [
+    {
+      "name": {
+        "en": "Women's Tour Down Under",
+        "nl": "Women's Tour Down Under",
+        "fr": "Women's Tour Down Under",
+        "de": "Women's Tour Down Under",
+        "it": "Women's Tour Down Under",
+        "es": "Women's Tour Down Under",
+        "da": "Women's Tour Down Under",
+        "nb": "Women's Tour Down Under",
+        "pt": "Women's Tour Down Under"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-01-17",
+      "end_date": "2026-01-19"
+    },
+    {
+      "name": {
+        "en": "Tour Down Under",
+        "nl": "Tour Down Under",
+        "fr": "Tour Down Under",
+        "de": "Tour Down Under",
+        "it": "Tour Down Under",
+        "es": "Tour Down Under",
+        "da": "Tour Down Under",
+        "nb": "Tour Down Under",
+        "pt": "Tour Down Under"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-01-20",
+      "end_date": "2026-01-25"
+    },
+    {
+      "name": {
+        "en": "Women's Tour Down Under One Day Race",
+        "nl": "Women's Tour Down Under One Day Race",
+        "fr": "Women's Tour Down Under One Day Race",
+        "de": "Women's Tour Down Under One Day Race",
+        "it": "Women's Tour Down Under One Day Race",
+        "es": "Women's Tour Down Under One Day Race",
+        "da": "Women's Tour Down Under One Day Race",
+        "nb": "Women's Tour Down Under One Day Race",
+        "pt": "Women's Tour Down Under One Day Race"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-01-21",
+      "end_date": "2026-01-21"
+    },
+    {
+      "name": {
+        "en": "AlUla Tour",
+        "nl": "AlUla Tour",
+        "fr": "AlUla Tour",
+        "de": "AlUla Tour",
+        "it": "AlUla Tour",
+        "es": "AlUla Tour",
+        "da": "AlUla Tour",
+        "nb": "AlUla Tour",
+        "pt": "AlUla Tour"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-01-27",
+      "end_date": "2026-01-31"
+    },
+    {
+      "name": {
+        "en": "Surf Coast Classic",
+        "nl": "Surf Coast Classic",
+        "fr": "Surf Coast Classic",
+        "de": "Surf Coast Classic",
+        "it": "Surf Coast Classic",
+        "es": "Surf Coast Classic",
+        "da": "Surf Coast Classic",
+        "nb": "Surf Coast Classic",
+        "pt": "Surf Coast Classic"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-01-28",
+      "end_date": "2026-01-28"
+    },
+    {
+      "name": {
+        "en": "Surf Coast Classic",
+        "nl": "Surf Coast Classic",
+        "fr": "Surf Coast Classic",
+        "de": "Surf Coast Classic",
+        "it": "Surf Coast Classic",
+        "es": "Surf Coast Classic",
+        "da": "Surf Coast Classic",
+        "nb": "Surf Coast Classic",
+        "pt": "Surf Coast Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-01-29",
+      "end_date": "2026-01-29"
+    },
+    {
+      "name": {
+        "en": "Cadel Evans Great Ocean Road Race",
+        "nl": "Cadel Evans Great Ocean Road Race",
+        "fr": "Cadel Evans Great Ocean Road Race",
+        "de": "Cadel Evans Great Ocean Road Race",
+        "it": "Cadel Evans Great Ocean Road Race",
+        "es": "Cadel Evans Great Ocean Road Race",
+        "da": "Cadel Evans Great Ocean Road Race",
+        "nb": "Cadel Evans Great Ocean Road Race",
+        "pt": "Cadel Evans Great Ocean Road Race"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-01-31",
+      "end_date": "2026-01-31"
+    },
+    {
+      "name": {
+        "en": "Cadel Evans Great Ocean Road Race",
+        "nl": "Cadel Evans Great Ocean Road Race",
+        "fr": "Cadel Evans Great Ocean Road Race",
+        "de": "Cadel Evans Great Ocean Road Race",
+        "it": "Cadel Evans Great Ocean Road Race",
+        "es": "Cadel Evans Great Ocean Road Race",
+        "da": "Cadel Evans Great Ocean Road Race",
+        "nb": "Cadel Evans Great Ocean Road Race",
+        "pt": "Cadel Evans Great Ocean Road Race"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-02-01",
+      "end_date": "2026-02-01"
+    },
+    {
+      "name": {
+        "en": "Volta a la Comunitat Valenciana",
+        "nl": "Volta a la Comunitat Valenciana",
+        "fr": "Volta a la Comunitat Valenciana",
+        "de": "Volta a la Comunitat Valenciana",
+        "it": "Volta a la Comunitat Valenciana",
+        "es": "Volta a la Comunitat Valenciana",
+        "da": "Volta a la Comunitat Valenciana",
+        "nb": "Volta a la Comunitat Valenciana",
+        "pt": "Volta a la Comunitat Valenciana"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-02-04",
+      "end_date": "2026-02-08"
+    },
+    {
+      "name": {
+        "en": "UAE Tour Women",
+        "nl": "UAE Tour Women",
+        "fr": "UAE Tour Women",
+        "de": "UAE Tour Women",
+        "it": "UAE Tour Women",
+        "es": "UAE Tour Women",
+        "da": "UAE Tour Women",
+        "nb": "UAE Tour Women",
+        "pt": "UAE Tour Women"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-02-05",
+      "end_date": "2026-02-08"
+    },
+    {
+      "name": {
+        "en": "Muscat Classic",
+        "nl": "Muscat Classic",
+        "fr": "Muscat Classic",
+        "de": "Muscat Classic",
+        "it": "Muscat Classic",
+        "es": "Muscat Classic",
+        "da": "Muscat Classic",
+        "nb": "Muscat Classic",
+        "pt": "Muscat Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-02-06",
+      "end_date": "2026-02-06"
+    },
+    {
+      "name": {
+        "en": "Tour of Oman",
+        "nl": "Tour of Oman",
+        "fr": "Tour of Oman",
+        "de": "Tour of Oman",
+        "it": "Tour of Oman",
+        "es": "Tour of Oman",
+        "da": "Tour of Oman",
+        "nb": "Tour of Oman",
+        "pt": "Tour of Oman"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-02-07",
+      "end_date": "2026-02-11"
+    },
+    {
+      "name": {
+        "en": "Vuelta CV Feminas",
+        "nl": "Vuelta CV Feminas",
+        "fr": "Vuelta CV Feminas",
+        "de": "Vuelta CV Feminas",
+        "it": "Vuelta CV Feminas",
+        "es": "Vuelta CV Feminas",
+        "da": "Vuelta CV Feminas",
+        "nb": "Vuelta CV Feminas",
+        "pt": "Vuelta CV Feminas"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-02-08",
+      "end_date": "2026-02-08"
+    },
+    {
+      "name": {
+        "en": "Setmana Ciclista Valenciana",
+        "nl": "Setmana Ciclista Valenciana",
+        "fr": "Setmana Ciclista Valenciana",
+        "de": "Setmana Ciclista Valenciana",
+        "it": "Setmana Ciclista Valenciana",
+        "es": "Setmana Ciclista Valenciana",
+        "da": "Setmana Ciclista Valenciana",
+        "nb": "Setmana Ciclista Valenciana",
+        "pt": "Setmana Ciclista Valenciana"
+      },
+      "category": "2.Pro",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-02-12",
+      "end_date": "2026-02-15"
+    },
+    {
+      "name": {
+        "en": "Figueira Champions Classic",
+        "nl": "Figueira Champions Classic",
+        "fr": "Figueira Champions Classic",
+        "de": "Figueira Champions Classic",
+        "it": "Figueira Champions Classic",
+        "es": "Figueira Champions Classic",
+        "da": "Figueira Champions Classic",
+        "nb": "Figueira Champions Classic",
+        "pt": "Figueira Champions Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-02-14",
+      "end_date": "2026-02-14"
+    },
+    {
+      "name": {
+        "en": "Clásica de Almería",
+        "nl": "Clásica de Almería",
+        "fr": "Clásica de Almería",
+        "de": "Clásica de Almería",
+        "it": "Clásica de Almería",
+        "es": "Clásica de Almería",
+        "da": "Clásica de Almería",
+        "nb": "Clásica de Almería",
+        "pt": "Clásica de Almería"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-02-15",
+      "end_date": "2026-02-15"
+    },
+    {
+      "name": {
+        "en": "UAE Tour",
+        "nl": "UAE Tour",
+        "fr": "UAE Tour",
+        "de": "UAE Tour",
+        "it": "UAE Tour",
+        "es": "UAE Tour",
+        "da": "UAE Tour",
+        "nb": "UAE Tour",
+        "pt": "UAE Tour"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-22"
+    },
+    {
+      "name": {
+        "en": "Vuelta a Andalucía",
+        "nl": "Vuelta a Andalucía",
+        "fr": "Vuelta a Andalucía",
+        "de": "Vuelta a Andalucía",
+        "it": "Vuelta a Andalucía",
+        "es": "Vuelta a Andalucía",
+        "da": "Vuelta a Andalucía",
+        "nb": "Vuelta a Andalucía",
+        "pt": "Vuelta a Andalucía"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-02-18",
+      "end_date": "2026-02-22"
+    },
+    {
+      "name": {
+        "en": "Volta ao Algarve",
+        "nl": "Volta ao Algarve",
+        "fr": "Volta ao Algarve",
+        "de": "Volta ao Algarve",
+        "it": "Volta ao Algarve",
+        "es": "Volta ao Algarve",
+        "da": "Volta ao Algarve",
+        "nb": "Volta ao Algarve",
+        "pt": "Volta ao Algarve"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-02-18",
+      "end_date": "2026-02-22"
+    },
+    {
+      "name": {
+        "en": "Clasica de Almeria",
+        "nl": "Clasica de Almeria",
+        "fr": "Clasica de Almeria",
+        "de": "Clasica de Almeria",
+        "it": "Clasica de Almeria",
+        "es": "Clasica de Almeria",
+        "da": "Clasica de Almeria",
+        "nb": "Clasica de Almeria",
+        "pt": "Clasica de Almeria"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-02-22",
+      "end_date": "2026-02-22"
+    },
+    {
+      "name": {
+        "en": "Faun–Ardèche Classic",
+        "nl": "Faun–Ardèche Classic",
+        "fr": "Faun–Ardèche Classic",
+        "de": "Faun–Ardèche Classic",
+        "it": "Faun–Ardèche Classic",
+        "es": "Faun–Ardèche Classic",
+        "da": "Faun–Ardèche Classic",
+        "nb": "Faun–Ardèche Classic",
+        "pt": "Faun–Ardèche Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-02-28",
+      "end_date": "2026-02-28"
+    },
+    {
+      "name": {
+        "en": "Omloop Het Nieuwsblad",
+        "nl": "Omloop Het Nieuwsblad",
+        "fr": "Omloop Het Nieuwsblad",
+        "de": "Omloop Het Nieuwsblad",
+        "it": "Omloop Het Nieuwsblad",
+        "es": "Omloop Het Nieuwsblad",
+        "da": "Omloop Het Nieuwsblad",
+        "nb": "Omloop Het Nieuwsblad",
+        "pt": "Omloop Het Nieuwsblad"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-02-28",
+      "end_date": "2026-02-28"
+    },
+    {
+      "name": {
+        "en": "Omloop Het Nieuwsblad",
+        "nl": "Omloop Het Nieuwsblad",
+        "fr": "Omloop Het Nieuwsblad",
+        "de": "Omloop Het Nieuwsblad",
+        "it": "Omloop Het Nieuwsblad",
+        "es": "Omloop Het Nieuwsblad",
+        "da": "Omloop Het Nieuwsblad",
+        "nb": "Omloop Het Nieuwsblad",
+        "pt": "Omloop Het Nieuwsblad"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-02-28",
+      "end_date": "2026-02-28"
+    },
+    {
+      "name": {
+        "en": "Faun Drôme Classic",
+        "nl": "Faun Drôme Classic",
+        "fr": "Faun Drôme Classic",
+        "de": "Faun Drôme Classic",
+        "it": "Faun Drôme Classic",
+        "es": "Faun Drôme Classic",
+        "da": "Faun Drôme Classic",
+        "nb": "Faun Drôme Classic",
+        "pt": "Faun Drôme Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-01",
+      "end_date": "2026-03-01"
+    },
+    {
+      "name": {
+        "en": "Kuurne–Brussels–Kuurne",
+        "nl": "Kuurne-Brussel-Kuurne",
+        "fr": "Kuurne–Bruxelles–Kuurne",
+        "de": "Kuurne–Brüssel–Kuurne",
+        "it": "Kuurne–Bruxelles–Kuurne",
+        "es": "Kuurne–Bruselas–Kuurne",
+        "da": "Kuurne–Bruxelles–Kuurne",
+        "nb": "Kuurne–Brussel–Kuurne",
+        "pt": "Kuurne–Bruxelas–Kuurne"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-01",
+      "end_date": "2026-03-01"
+    },
+    {
+      "name": {
+        "en": "Trofeo Laigueglia",
+        "nl": "Trofeo Laigueglia",
+        "fr": "Trofeo Laigueglia",
+        "de": "Trofeo Laigueglia",
+        "it": "Trofeo Laigueglia",
+        "es": "Trofeo Laigueglia",
+        "da": "Trofeo Laigueglia",
+        "nb": "Trofeo Laigueglia",
+        "pt": "Trofeo Laigueglia"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-04",
+      "end_date": "2026-03-04"
+    },
+    {
+      "name": {
+        "en": "Strade Bianche",
+        "nl": "Strade Bianche",
+        "fr": "Strade Bianche",
+        "de": "Strade Bianche",
+        "it": "Strade Bianche",
+        "es": "Strade Bianche",
+        "da": "Strade Bianche",
+        "nb": "Strade Bianche",
+        "pt": "Strade Bianche"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-07"
+    },
+    {
+      "name": {
+        "en": "Strade Bianche Donne",
+        "nl": "Strade Bianche (V)",
+        "fr": "Strade Bianche Donne",
+        "de": "Strade Bianche Frauen",
+        "it": "Strade Bianche Donne",
+        "es": "Strade Bianche Femenino",
+        "da": "Strade Bianche Kvinder",
+        "nb": "Strade Bianche Kvinner",
+        "pt": "Strade Bianche Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-07",
+      "end_date": "2026-03-07"
+    },
+    {
+      "name": {
+        "en": "Paris–Nice",
+        "nl": "Parijs-Nice",
+        "fr": "Paris–Nice",
+        "de": "Paris–Nizza",
+        "it": "Parigi–Nizza",
+        "es": "París–Niza",
+        "da": "Paris–Nice",
+        "nb": "Paris–Nice",
+        "pt": "Paris–Nice"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-03-08",
+      "end_date": "2026-03-15"
+    },
+    {
+      "name": {
+        "en": "Tirreno–Adriatico",
+        "nl": "Tirreno-Adriatico",
+        "fr": "Tirreno–Adriatique",
+        "de": "Tirreno–Adriatico",
+        "it": "Tirreno–Adriatico",
+        "es": "Tirreno–Adriático",
+        "da": "Tirreno–Adriatico",
+        "nb": "Tirreno–Adriatico",
+        "pt": "Tirreno–Adriático"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-15"
+    },
+    {
+      "name": {
+        "en": "Ixina GP Oetingen",
+        "nl": "Ixina GP Oetingen",
+        "fr": "Ixina GP Oetingen",
+        "de": "Ixina GP Oetingen",
+        "it": "Ixina GP Oetingen",
+        "es": "Ixina GP Oetingen",
+        "da": "Ixina GP Oetingen",
+        "nb": "Ixina GP Oetingen",
+        "pt": "Ixina GP Oetingen"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-11",
+      "end_date": "2026-03-11"
+    },
+    {
+      "name": {
+        "en": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "nl": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "fr": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "de": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "it": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "es": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "da": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "nb": "Trofeo Alfredo Binda-Comune di Cittiglio",
+        "pt": "Trofeo Alfredo Binda-Comune di Cittiglio"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-15",
+      "end_date": "2026-03-15"
+    },
+    {
+      "name": {
+        "en": "Milano–Torino",
+        "nl": "Milano–Torino",
+        "fr": "Milano–Torino",
+        "de": "Milano–Torino",
+        "it": "Milano–Torino",
+        "es": "Milano–Torino",
+        "da": "Milano–Torino",
+        "nb": "Milano–Torino",
+        "pt": "Milano–Torino"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-18",
+      "end_date": "2026-03-18"
+    },
+    {
+      "name": {
+        "en": "Nokere Koerse",
+        "nl": "Nokere Koerse",
+        "fr": "Nokere Koerse",
+        "de": "Nokere Koerse",
+        "it": "Nokere Koerse",
+        "es": "Nokere Koerse",
+        "da": "Nokere Koerse",
+        "nb": "Nokere Koerse",
+        "pt": "Nokere Koerse"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-18",
+      "end_date": "2026-03-18"
+    },
+    {
+      "name": {
+        "en": "Nokere Koerse",
+        "nl": "Nokere Koerse",
+        "fr": "Nokere Koerse",
+        "de": "Nokere Koerse",
+        "it": "Nokere Koerse",
+        "es": "Nokere Koerse",
+        "da": "Nokere Koerse",
+        "nb": "Nokere Koerse",
+        "pt": "Nokere Koerse"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-18",
+      "end_date": "2026-03-18"
+    },
+    {
+      "name": {
+        "en": "GP de Denain",
+        "nl": "GP de Denain",
+        "fr": "GP de Denain",
+        "de": "GP de Denain",
+        "it": "GP de Denain",
+        "es": "GP de Denain",
+        "da": "GP de Denain",
+        "nb": "GP de Denain",
+        "pt": "GP de Denain"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-19",
+      "end_date": "2026-03-19"
+    },
+    {
+      "name": {
+        "en": "Bredene Koksijde Classic",
+        "nl": "Bredene Koksijde Classic",
+        "fr": "Bredene Koksijde Classic",
+        "de": "Bredene Koksijde Classic",
+        "it": "Bredene Koksijde Classic",
+        "es": "Bredene Koksijde Classic",
+        "da": "Bredene Koksijde Classic",
+        "nb": "Bredene Koksijde Classic",
+        "pt": "Bredene Koksijde Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-20",
+      "end_date": "2026-03-20"
+    },
+    {
+      "name": {
+        "en": "Milan–San Remo",
+        "nl": "Milaan-Sanremo",
+        "fr": "Milan–San Remo",
+        "de": "Mailand–Sanremo",
+        "it": "Milano–Sanremo",
+        "es": "Milán–San Remo",
+        "da": "Milano–Sanremo",
+        "nb": "Milano–Sanremo",
+        "pt": "Milão–Sanremo"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-21",
+      "end_date": "2026-03-21"
+    },
+    {
+      "name": {
+        "en": "Milan–San Remo Women",
+        "nl": "Milaan-Sanremo (V)",
+        "fr": "Milan–San Remo Femmes",
+        "de": "Mailand–Sanremo Frauen",
+        "it": "Milano–Sanremo Donne",
+        "es": "Milán–San Remo Femenino",
+        "da": "Milano–Sanremo Kvinder",
+        "nb": "Milano–Sanremo Kvinner",
+        "pt": "Milão–Sanremo Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-21",
+      "end_date": "2026-03-21"
+    },
+    {
+      "name": {
+        "en": "Volta a Catalunya",
+        "nl": "Ronde van Catalonië",
+        "fr": "Tour de Catalogne",
+        "de": "Katalonien-Rundfahrt",
+        "it": "Giro della Catalogna",
+        "es": "Volta a Catalunya",
+        "da": "Volta a Catalunya",
+        "nb": "Volta a Catalunya",
+        "pt": "Volta à Catalunha"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-03-23",
+      "end_date": "2026-03-29"
+    },
+    {
+      "name": {
+        "en": "Tour of Bruges",
+        "nl": "Tour of Bruges",
+        "fr": "Tour of Bruges",
+        "de": "Tour of Bruges",
+        "it": "Tour of Bruges",
+        "es": "Tour of Bruges",
+        "da": "Tour of Bruges",
+        "nb": "Tour of Bruges",
+        "pt": "Tour of Bruges"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-25",
+      "end_date": "2026-03-25"
+    },
+    {
+      "name": {
+        "en": "Tour of Bruges Women",
+        "nl": "Tour of Bruges Women",
+        "fr": "Tour of Bruges Women",
+        "de": "Tour of Bruges Women",
+        "it": "Tour of Bruges Women",
+        "es": "Tour of Bruges Women",
+        "da": "Tour of Bruges Women",
+        "nb": "Tour of Bruges Women",
+        "pt": "Tour of Bruges Women"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-26",
+      "end_date": "2026-03-26"
+    },
+    {
+      "name": {
+        "en": "E3 Saxo Classic",
+        "nl": "E3 Saxo Classic",
+        "fr": "E3 Saxo Classic",
+        "de": "E3 Saxo Classic",
+        "it": "E3 Saxo Classic",
+        "es": "E3 Saxo Classic",
+        "da": "E3 Saxo Classic",
+        "nb": "E3 Saxo Classic",
+        "pt": "E3 Saxo Classic"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-27",
+      "end_date": "2026-03-27"
+    },
+    {
+      "name": {
+        "en": "Gent–Wevelgem",
+        "nl": "Gent-Wevelgem",
+        "fr": "Gand–Wevelgem",
+        "de": "Gent–Wevelgem",
+        "it": "Gand-Wevelgem",
+        "es": "Gante–Wevelgem",
+        "da": "Gent–Wevelgem",
+        "nb": "Gent–Wevelgem",
+        "pt": "Gante–Wevelgem"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-03-29",
+      "end_date": "2026-03-29"
+    },
+    {
+      "name": {
+        "en": "Gent–Wevelgem",
+        "nl": "Gent-Wevelgem",
+        "fr": "Gand–Wevelgem",
+        "de": "Gent–Wevelgem",
+        "it": "Gand-Wevelgem",
+        "es": "Gante–Wevelgem",
+        "da": "Gent–Wevelgem",
+        "nb": "Gent–Wevelgem",
+        "pt": "Gante–Wevelgem"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-03-29",
+      "end_date": "2026-03-29"
+    },
+    {
+      "name": {
+        "en": "Dwars door Vlaanderen",
+        "nl": "Dwars door Vlaanderen",
+        "fr": "À travers la Flandre",
+        "de": "Quer durch Flandern",
+        "it": "Attraverso le Fiandre",
+        "es": "A través de Flandes",
+        "da": "Tværs gennem Flandern",
+        "nb": "Tvers gjennom Flandern",
+        "pt": "Através da Flandres"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-01"
+    },
+    {
+      "name": {
+        "en": "Dwars door Vlaanderen",
+        "nl": "Dwars door Vlaanderen",
+        "fr": "À travers la Flandre",
+        "de": "Quer durch Flandern",
+        "it": "Attraverso le Fiandre",
+        "es": "A través de Flandes",
+        "da": "Tværs gennem Flandern",
+        "nb": "Tvers gjennom Flandern",
+        "pt": "Através da Flandres"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-01"
+    },
+    {
+      "name": {
+        "en": "GP Miguel Induráin",
+        "nl": "GP Miguel Induráin",
+        "fr": "GP Miguel Induráin",
+        "de": "GP Miguel Induráin",
+        "it": "GP Miguel Induráin",
+        "es": "GP Miguel Induráin",
+        "da": "GP Miguel Induráin",
+        "nb": "GP Miguel Induráin",
+        "pt": "GP Miguel Induráin"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-04",
+      "end_date": "2026-04-04"
+    },
+    {
+      "name": {
+        "en": "Tour of Flanders",
+        "nl": "Ronde van Vlaanderen",
+        "fr": "Tour des Flandres",
+        "de": "Flandern-Rundfahrt",
+        "it": "Giro delle Fiandre",
+        "es": "Tour de Flandes",
+        "da": "Flandern Rundt",
+        "nb": "Flanderns Rundt",
+        "pt": "Volta das Flandres"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-05",
+      "end_date": "2026-04-05"
+    },
+    {
+      "name": {
+        "en": "Tour of Flanders",
+        "nl": "Ronde van Vlaanderen",
+        "fr": "Tour des Flandres",
+        "de": "Flandern-Rundfahrt",
+        "it": "Giro delle Fiandre",
+        "es": "Tour de Flandes",
+        "da": "Flandern Rundt",
+        "nb": "Flanderns Rundt",
+        "pt": "Volta das Flandres"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-05",
+      "end_date": "2026-04-05"
+    },
+    {
+      "name": {
+        "en": "Tour of the Basque Country",
+        "nl": "Tour of the Basque Country",
+        "fr": "Tour of the Basque Country",
+        "de": "Tour of the Basque Country",
+        "it": "Tour of the Basque Country",
+        "es": "Tour of the Basque Country",
+        "da": "Tour of the Basque Country",
+        "nb": "Tour of the Basque Country",
+        "pt": "Tour of the Basque Country"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-04-06",
+      "end_date": "2026-04-11"
+    },
+    {
+      "name": {
+        "en": "Région Pays de la Loire Tour",
+        "nl": "Région Pays de la Loire Tour",
+        "fr": "Région Pays de la Loire Tour",
+        "de": "Région Pays de la Loire Tour",
+        "it": "Région Pays de la Loire Tour",
+        "es": "Région Pays de la Loire Tour",
+        "da": "Région Pays de la Loire Tour",
+        "nb": "Région Pays de la Loire Tour",
+        "pt": "Région Pays de la Loire Tour"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-04-07",
+      "end_date": "2026-04-10"
+    },
+    {
+      "name": {
+        "en": "Scheldeprijs",
+        "nl": "Scheldeprijs",
+        "fr": "Scheldeprijs",
+        "de": "Scheldeprijs",
+        "it": "Scheldeprijs",
+        "es": "Scheldeprijs",
+        "da": "Scheldeprijs",
+        "nb": "Scheldeprijs",
+        "pt": "Scheldeprijs"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-08"
+    },
+    {
+      "name": {
+        "en": "Scheldeprijs",
+        "nl": "Scheldeprijs",
+        "fr": "Scheldeprijs",
+        "de": "Scheldeprijs",
+        "it": "Scheldeprijs",
+        "es": "Scheldeprijs",
+        "da": "Scheldeprijs",
+        "nb": "Scheldeprijs",
+        "pt": "Scheldeprijs"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-08",
+      "end_date": "2026-04-08"
+    },
+    {
+      "name": {
+        "en": "Paris–Roubaix",
+        "nl": "Parijs-Roubaix",
+        "fr": "Paris–Roubaix",
+        "de": "Paris–Roubaix",
+        "it": "Parigi-Roubaix",
+        "es": "París-Roubaix",
+        "da": "Paris–Roubaix",
+        "nb": "Paris–Roubaix",
+        "pt": "Paris–Roubaix"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-12"
+    },
+    {
+      "name": {
+        "en": "Paris–Roubaix Femmes",
+        "nl": "Parijs-Roubaix (V)",
+        "fr": "Paris–Roubaix Femmes",
+        "de": "Paris–Roubaix Frauen",
+        "it": "Parigi-Roubaix Donne",
+        "es": "París-Roubaix Femenino",
+        "da": "Paris–Roubaix Kvinder",
+        "nb": "Paris–Roubaix Kvinner",
+        "pt": "Paris–Roubaix Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-12"
+    },
+    {
+      "name": {
+        "en": "Tour of Hainan",
+        "nl": "Tour of Hainan",
+        "fr": "Tour of Hainan",
+        "de": "Tour of Hainan",
+        "it": "Tour of Hainan",
+        "es": "Tour of Hainan",
+        "da": "Tour of Hainan",
+        "nb": "Tour of Hainan",
+        "pt": "Tour of Hainan"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-04-15",
+      "end_date": "2026-04-19"
+    },
+    {
+      "name": {
+        "en": "Brabantse Pijl",
+        "nl": "Brabantse Pijl",
+        "fr": "Brabantse Pijl",
+        "de": "Brabantse Pijl",
+        "it": "Brabantse Pijl",
+        "es": "Brabantse Pijl",
+        "da": "Brabantse Pijl",
+        "nb": "Brabantse Pijl",
+        "pt": "Brabantse Pijl"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-17"
+    },
+    {
+      "name": {
+        "en": "Brabantse Pijl",
+        "nl": "Brabantse Pijl",
+        "fr": "Brabantse Pijl",
+        "de": "Brabantse Pijl",
+        "it": "Brabantse Pijl",
+        "es": "Brabantse Pijl",
+        "da": "Brabantse Pijl",
+        "nb": "Brabantse Pijl",
+        "pt": "Brabantse Pijl"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-17"
+    },
+    {
+      "name": {
+        "en": "Amstel Gold Race",
+        "nl": "Amstel Gold Race",
+        "fr": "Amstel Gold Race",
+        "de": "Amstel Gold Race",
+        "it": "Amstel Gold Race",
+        "es": "Amstel Gold Race",
+        "da": "Amstel Gold Race",
+        "nb": "Amstel Gold Race",
+        "pt": "Amstel Gold Race"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-19",
+      "end_date": "2026-04-19"
+    },
+    {
+      "name": {
+        "en": "Amstel Gold Race",
+        "nl": "Amstel Gold Race",
+        "fr": "Amstel Gold Race",
+        "de": "Amstel Gold Race",
+        "it": "Amstel Gold Race",
+        "es": "Amstel Gold Race",
+        "da": "Amstel Gold Race",
+        "nb": "Amstel Gold Race",
+        "pt": "Amstel Gold Race"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-19",
+      "end_date": "2026-04-19"
+    },
+    {
+      "name": {
+        "en": "Tour of the Alps",
+        "nl": "Tour of the Alps",
+        "fr": "Tour of the Alps",
+        "de": "Tour of the Alps",
+        "it": "Tour of the Alps",
+        "es": "Tour of the Alps",
+        "da": "Tour of the Alps",
+        "nb": "Tour of the Alps",
+        "pt": "Tour of the Alps"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-24"
+    },
+    {
+      "name": {
+        "en": "La Flèche Wallonne",
+        "nl": "Waalse Pijl",
+        "fr": "La Flèche Wallonne",
+        "de": "Wallonischer Pfeil",
+        "it": "La Freccia Vallone",
+        "es": "La Flecha Valona",
+        "da": "La Flèche Wallonne",
+        "nb": "La Flèche Wallonne",
+        "pt": "La Flèche Wallonne"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22"
+    },
+    {
+      "name": {
+        "en": "La Flèche Wallonne Femmes",
+        "nl": "Waalse Pijl (V)",
+        "fr": "La Flèche Wallonne Femmes",
+        "de": "Wallonischer Pfeil Frauen",
+        "it": "La Freccia Vallone Donne",
+        "es": "La Flecha Valona Femenina",
+        "da": "La Flèche Wallonne Kvinder",
+        "nb": "La Flèche Wallonne Kvinner",
+        "pt": "La Flèche Wallonne Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-22",
+      "end_date": "2026-04-22"
+    },
+    {
+      "name": {
+        "en": "Tour of Turkiye",
+        "nl": "Tour of Turkiye",
+        "fr": "Tour of Turkiye",
+        "de": "Tour of Turkiye",
+        "it": "Tour of Turkiye",
+        "es": "Tour of Turkiye",
+        "da": "Tour of Turkiye",
+        "nb": "Tour of Turkiye",
+        "pt": "Tour of Turkiye"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-04-26",
+      "end_date": "2026-05-03"
+    },
+    {
+      "name": {
+        "en": "Liège–Bastogne–Liège",
+        "nl": "Luik-Bastenaken-Luik",
+        "fr": "Liège–Bastogne–Liège",
+        "de": "Lüttich–Bastogne–Lüttich",
+        "it": "Liegi–Bastogne–Liegi",
+        "es": "Lieja–Bastoña–Lieja",
+        "da": "Liège–Bastogne–Liège",
+        "nb": "Liège–Bastogne–Liège",
+        "pt": "Liège–Bastogne–Liège"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26"
+    },
+    {
+      "name": {
+        "en": "Liège–Bastogne–Liège Femmes",
+        "nl": "Luik-Bastenaken-Luik (V)",
+        "fr": "Liège–Bastogne–Liège Femmes",
+        "de": "Lüttich–Bastogne–Lüttich Frauen",
+        "it": "Liegi–Bastogne–Liegi Donne",
+        "es": "Lieja–Bastoña–Lieja Femenina",
+        "da": "Liège–Bastogne–Liège Kvinder",
+        "nb": "Liège–Bastogne–Liège Kvinner",
+        "pt": "Liège–Bastogne–Liège Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-26",
+      "end_date": "2026-04-26"
+    },
+    {
+      "name": {
+        "en": "Tour de Romandie",
+        "nl": "Ronde van Romandie",
+        "fr": "Tour de Romandie",
+        "de": "Tour de Romandie",
+        "it": "Tour de Romandie",
+        "es": "Tour de Romandía",
+        "da": "Tour de Romandie",
+        "nb": "Tour de Romandie",
+        "pt": "Tour de Romandie"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-04-28",
+      "end_date": "2026-05-03"
+    },
+    {
+      "name": {
+        "en": "Eschborn–Frankfurt",
+        "nl": "Eschborn–Frankfurt",
+        "fr": "Eschborn–Frankfurt",
+        "de": "Eschborn–Frankfurt",
+        "it": "Eschborn–Frankfurt",
+        "es": "Eschborn–Frankfurt",
+        "da": "Eschborn–Frankfurt",
+        "nb": "Eschborn–Frankfurt",
+        "pt": "Eschborn–Frankfurt"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-01"
+    },
+    {
+      "name": {
+        "en": "La Vuelta Femenina",
+        "nl": "Ronde van Spanje (V)",
+        "fr": "Tour d'Espagne Féminin",
+        "de": "Vuelta Femenina",
+        "it": "La Vuelta Femenina",
+        "es": "La Vuelta Femenina",
+        "da": "La Vuelta Femenina",
+        "nb": "La Vuelta Femenina",
+        "pt": "Volta à Espanha Feminina"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-05-03",
+      "end_date": "2026-05-09"
+    },
+    {
+      "name": {
+        "en": "Giro d'Italia",
+        "nl": "Ronde van Italië",
+        "fr": "Tour d'Italie",
+        "de": "Giro d'Italia",
+        "it": "Giro d'Italia",
+        "es": "Giro de Italia",
+        "da": "Giro d'Italia",
+        "nb": "Giro d'Italia",
+        "pt": "Volta a Itália"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-05-08",
+      "end_date": "2026-05-31"
+    },
+    {
+      "name": {
+        "en": "GP du Morbihan",
+        "nl": "GP du Morbihan",
+        "fr": "GP du Morbihan",
+        "de": "GP du Morbihan",
+        "it": "GP du Morbihan",
+        "es": "GP du Morbihan",
+        "da": "GP du Morbihan",
+        "nb": "GP du Morbihan",
+        "pt": "GP du Morbihan"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-09"
+    },
+    {
+      "name": {
+        "en": "Tro-Bro Léon",
+        "nl": "Tro-Bro Léon",
+        "fr": "Tro-Bro Léon",
+        "de": "Tro-Bro Léon",
+        "it": "Tro-Bro Léon",
+        "es": "Tro-Bro Léon",
+        "da": "Tro-Bro Léon",
+        "nb": "Tro-Bro Léon",
+        "pt": "Tro-Bro Léon"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-05-10",
+      "end_date": "2026-05-10"
+    },
+    {
+      "name": {
+        "en": "Tour de Hongrie",
+        "nl": "Tour de Hongrie",
+        "fr": "Tour de Hongrie",
+        "de": "Tour de Hongrie",
+        "it": "Tour de Hongrie",
+        "es": "Tour de Hongrie",
+        "da": "Tour de Hongrie",
+        "nb": "Tour de Hongrie",
+        "pt": "Tour de Hongrie"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-17"
+    },
+    {
+      "name": {
+        "en": "Clasica Femenina Navarra",
+        "nl": "Clasica Femenina Navarra",
+        "fr": "Clasica Femenina Navarra",
+        "de": "Clasica Femenina Navarra",
+        "it": "Clasica Femenina Navarra",
+        "es": "Clasica Femenina Navarra",
+        "da": "Clasica Femenina Navarra",
+        "nb": "Clasica Femenina Navarra",
+        "pt": "Clasica Femenina Navarra"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-05-13",
+      "end_date": "2026-05-13"
+    },
+    {
+      "name": {
+        "en": "Itzulia Women",
+        "nl": "Itzulia Women",
+        "fr": "Itzulia Women",
+        "de": "Itzulia Women",
+        "it": "Itzulia Women",
+        "es": "Itzulia Women",
+        "da": "Itzulia Women",
+        "nb": "Itzulia Women",
+        "pt": "Itzulia Women"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-05-15",
+      "end_date": "2026-05-17"
+    },
+    {
+      "name": {
+        "en": "Classique Dunkerque",
+        "nl": "Classique Dunkerque",
+        "fr": "Classique Dunkerque",
+        "de": "Classique Dunkerque",
+        "it": "Classique Dunkerque",
+        "es": "Classique Dunkerque",
+        "da": "Classique Dunkerque",
+        "nb": "Classique Dunkerque",
+        "pt": "Classique Dunkerque"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-05-19",
+      "end_date": "2026-05-19"
+    },
+    {
+      "name": {
+        "en": "Four Days of Dunkirk",
+        "nl": "Four Days of Dunkirk",
+        "fr": "Four Days of Dunkirk",
+        "de": "Four Days of Dunkirk",
+        "it": "Four Days of Dunkirk",
+        "es": "Four Days of Dunkirk",
+        "da": "Four Days of Dunkirk",
+        "nb": "Four Days of Dunkirk",
+        "pt": "Four Days of Dunkirk"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-05-20",
+      "end_date": "2026-05-24"
+    },
+    {
+      "name": {
+        "en": "Vuelta a Burgos Feminas",
+        "nl": "Vuelta a Burgos Feminas",
+        "fr": "Vuelta a Burgos Feminas",
+        "de": "Vuelta a Burgos Feminas",
+        "it": "Vuelta a Burgos Feminas",
+        "es": "Vuelta a Burgos Feminas",
+        "da": "Vuelta a Burgos Feminas",
+        "nb": "Vuelta a Burgos Feminas",
+        "pt": "Vuelta a Burgos Feminas"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-05-21",
+      "end_date": "2026-05-24"
+    },
+    {
+      "name": {
+        "en": "Antwerp Port Epic Ladies",
+        "nl": "Antwerp Port Epic Ladies",
+        "fr": "Antwerp Port Epic Ladies",
+        "de": "Antwerp Port Epic Ladies",
+        "it": "Antwerp Port Epic Ladies",
+        "es": "Antwerp Port Epic Ladies",
+        "da": "Antwerp Port Epic Ladies",
+        "nb": "Antwerp Port Epic Ladies",
+        "pt": "Antwerp Port Epic Ladies"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-05-24",
+      "end_date": "2026-05-24"
+    },
+    {
+      "name": {
+        "en": "Tour of Norway",
+        "nl": "Tour of Norway",
+        "fr": "Tour of Norway",
+        "de": "Tour of Norway",
+        "it": "Tour of Norway",
+        "es": "Tour of Norway",
+        "da": "Tour of Norway",
+        "nb": "Tour of Norway",
+        "pt": "Tour of Norway"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-31"
+    },
+    {
+      "name": {
+        "en": "Boucles de la Mayenne",
+        "nl": "Boucles de la Mayenne",
+        "fr": "Boucles de la Mayenne",
+        "de": "Boucles de la Mayenne",
+        "it": "Boucles de la Mayenne",
+        "es": "Boucles de la Mayenne",
+        "da": "Boucles de la Mayenne",
+        "nb": "Boucles de la Mayenne",
+        "pt": "Boucles de la Mayenne"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-05-28",
+      "end_date": "2026-05-31"
+    },
+    {
+      "name": {
+        "en": "Tour of Norway Women",
+        "nl": "Tour of Norway Women",
+        "fr": "Tour of Norway Women",
+        "de": "Tour of Norway Women",
+        "it": "Tour of Norway Women",
+        "es": "Tour of Norway Women",
+        "da": "Tour of Norway Women",
+        "nb": "Tour of Norway Women",
+        "pt": "Tour of Norway Women"
+      },
+      "category": "2.Pro",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-05-30",
+      "end_date": "2026-06-01"
+    },
+    {
+      "name": {
+        "en": "Giro d'Italia Women",
+        "nl": "Ronde van Italië (V)",
+        "fr": "Tour d'Italie Femmes",
+        "de": "Giro d'Italia Donne",
+        "it": "Giro d'Italia Donne",
+        "es": "Giro de Italia Femenino",
+        "da": "Giro d'Italia Kvinder",
+        "nb": "Giro d'Italia Kvinner",
+        "pt": "Volta a Itália Feminina"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-05-30",
+      "end_date": "2026-06-07"
+    },
+    {
+      "name": {
+        "en": "Tour de Wallonie",
+        "nl": "Tour de Wallonie",
+        "fr": "Tour de Wallonie",
+        "de": "Tour de Wallonie",
+        "it": "Tour de Wallonie",
+        "es": "Tour de Wallonie",
+        "da": "Tour de Wallonie",
+        "nb": "Tour de Wallonie",
+        "pt": "Tour de Wallonie"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-05"
+    },
+    {
+      "name": {
+        "en": "Brussels Cycling Classic",
+        "nl": "Brussels Cycling Classic",
+        "fr": "Brussels Cycling Classic",
+        "de": "Brussels Cycling Classic",
+        "it": "Brussels Cycling Classic",
+        "es": "Brussels Cycling Classic",
+        "da": "Brussels Cycling Classic",
+        "nb": "Brussels Cycling Classic",
+        "pt": "Brussels Cycling Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-07"
+    },
+    {
+      "name": {
+        "en": "Tour Auvergne-Rhône-Alpes",
+        "nl": "Tour Auvergne-Rhône-Alpes",
+        "fr": "Tour Auvergne-Rhône-Alpes",
+        "de": "Tour Auvergne-Rhône-Alpes",
+        "it": "Tour Auvergne-Rhône-Alpes",
+        "es": "Tour Auvergne-Rhône-Alpes",
+        "da": "Tour Auvergne-Rhône-Alpes",
+        "nb": "Tour Auvergne-Rhône-Alpes",
+        "pt": "Tour Auvergne-Rhône-Alpes"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-06-07",
+      "end_date": "2026-06-14"
+    },
+    {
+      "name": {
+        "en": "Circuit Franco–Belge",
+        "nl": "Circuit Franco–Belge",
+        "fr": "Circuit Franco–Belge",
+        "de": "Circuit Franco–Belge",
+        "it": "Circuit Franco–Belge",
+        "es": "Circuit Franco–Belge",
+        "da": "Circuit Franco–Belge",
+        "nb": "Circuit Franco–Belge",
+        "pt": "Circuit Franco–Belge"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-10"
+    },
+    {
+      "name": {
+        "en": "Tour Féminin International des Pyrénées",
+        "nl": "Tour Féminin International des Pyrénées",
+        "fr": "Tour Féminin International des Pyrénées",
+        "de": "Tour Féminin International des Pyrénées",
+        "it": "Tour Féminin International des Pyrénées",
+        "es": "Tour Féminin International des Pyrénées",
+        "da": "Tour Féminin International des Pyrénées",
+        "nb": "Tour Féminin International des Pyrénées",
+        "pt": "Tour Féminin International des Pyrénées"
+      },
+      "category": "2.Pro",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-06-12",
+      "end_date": "2026-06-14"
+    },
+    {
+      "name": {
+        "en": "Copenhagen Sprint",
+        "nl": "Copenhagen Sprint",
+        "fr": "Copenhagen Sprint",
+        "de": "Copenhagen Sprint",
+        "it": "Copenhagen Sprint",
+        "es": "Copenhagen Sprint",
+        "da": "Copenhagen Sprint",
+        "nb": "Copenhagen Sprint",
+        "pt": "Copenhagen Sprint"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-13"
+    },
+    {
+      "name": {
+        "en": "Copenhagen Sprint",
+        "nl": "Copenhagen Sprint",
+        "fr": "Copenhagen Sprint",
+        "de": "Copenhagen Sprint",
+        "it": "Copenhagen Sprint",
+        "es": "Copenhagen Sprint",
+        "da": "Copenhagen Sprint",
+        "nb": "Copenhagen Sprint",
+        "pt": "Copenhagen Sprint"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-06-14",
+      "end_date": "2026-06-14"
+    },
+    {
+      "name": {
+        "en": "Tour of Slovenia",
+        "nl": "Tour of Slovenia",
+        "fr": "Tour of Slovenia",
+        "de": "Tour of Slovenia",
+        "it": "Tour of Slovenia",
+        "es": "Tour of Slovenia",
+        "da": "Tour of Slovenia",
+        "nb": "Tour of Slovenia",
+        "pt": "Tour of Slovenia"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-21"
+    },
+    {
+      "name": {
+        "en": "Tour of Belgium",
+        "nl": "Tour of Belgium",
+        "fr": "Tour of Belgium",
+        "de": "Tour of Belgium",
+        "it": "Tour of Belgium",
+        "es": "Tour of Belgium",
+        "da": "Tour of Belgium",
+        "nb": "Tour of Belgium",
+        "pt": "Tour of Belgium"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-21"
+    },
+    {
+      "name": {
+        "en": "Tour de Suisse",
+        "nl": "Ronde van Zwitserland",
+        "fr": "Tour de Suisse",
+        "de": "Tour de Suisse",
+        "it": "Giro di Svizzera",
+        "es": "Tour de Suiza",
+        "da": "Tour de Suisse",
+        "nb": "Tour de Suisse",
+        "pt": "Tour da Suíça"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-21"
+    },
+    {
+      "name": {
+        "en": "Tour de Suisse Women",
+        "nl": "Ronde van Zwitserland (V)",
+        "fr": "Tour de Suisse Femmes",
+        "de": "Tour de Suisse Frauen",
+        "it": "Giro di Svizzera Donne",
+        "es": "Tour de Suiza Femenino",
+        "da": "Tour de Suisse Kvinder",
+        "nb": "Tour de Suisse Kvinner",
+        "pt": "Tour da Suíça Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-21"
+    },
+    {
+      "name": {
+        "en": "Thüringen Women Cycling Challenge",
+        "nl": "Thüringen Women Cycling Challenge",
+        "fr": "Thüringen Women Cycling Challenge",
+        "de": "Thüringen Women Cycling Challenge",
+        "it": "Thüringen Women Cycling Challenge",
+        "es": "Thüringen Women Cycling Challenge",
+        "da": "Thüringen Women Cycling Challenge",
+        "nb": "Thüringen Women Cycling Challenge",
+        "pt": "Thüringen Women Cycling Challenge"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-06-21",
+      "end_date": "2026-06-21"
+    },
+    {
+      "name": {
+        "en": "Tour de France",
+        "nl": "Ronde van Frankrijk",
+        "fr": "Tour de France",
+        "de": "Tour de France",
+        "it": "Tour de France",
+        "es": "Tour de Francia",
+        "da": "Tour de France",
+        "nb": "Tour de France",
+        "pt": "Tour de França"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-26"
+    },
+    {
+      "name": {
+        "en": "Tour of Magnificent Qinghai",
+        "nl": "Tour of Magnificent Qinghai",
+        "fr": "Tour of Magnificent Qinghai",
+        "de": "Tour of Magnificent Qinghai",
+        "it": "Tour of Magnificent Qinghai",
+        "es": "Tour of Magnificent Qinghai",
+        "da": "Tour of Magnificent Qinghai",
+        "nb": "Tour of Magnificent Qinghai",
+        "pt": "Tour of Magnificent Qinghai"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-18"
+    },
+    {
+      "name": {
+        "en": "Tour de Pologne Women",
+        "nl": "Tour de Pologne Women",
+        "fr": "Tour de Pologne Women",
+        "de": "Tour de Pologne Women",
+        "it": "Tour de Pologne Women",
+        "es": "Tour de Pologne Women",
+        "da": "Tour de Pologne Women",
+        "nb": "Tour de Pologne Women",
+        "pt": "Tour de Pologne Women"
+      },
+      "category": "2.Pro",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-07-24",
+      "end_date": "2026-07-26"
+    },
+    {
+      "name": {
+        "en": "Tour of Denmark",
+        "nl": "Tour of Denmark",
+        "fr": "Tour of Denmark",
+        "de": "Tour of Denmark",
+        "it": "Tour of Denmark",
+        "es": "Tour of Denmark",
+        "da": "Tour of Denmark",
+        "nb": "Tour of Denmark",
+        "pt": "Tour of Denmark"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-07-29",
+      "end_date": "2026-08-02"
+    },
+    {
+      "name": {
+        "en": "Clásica de San Sebastián",
+        "nl": "Clásica de San Sebastián",
+        "fr": "Clásica de San Sebastián",
+        "de": "Clásica de San Sebastián",
+        "it": "Clásica de San Sebastián",
+        "es": "Clásica de San Sebastián",
+        "da": "Clásica de San Sebastián",
+        "nb": "Clásica de San Sebastián",
+        "pt": "Clásica de San Sebastián"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-01"
+    },
+    {
+      "name": {
+        "en": "Tour de France Femmes",
+        "nl": "Tour de France Femmes",
+        "fr": "Tour de France Femmes avec Zwift",
+        "de": "Tour de France Femmes",
+        "it": "Tour de France Femmes",
+        "es": "Tour de Francia Femenino",
+        "da": "Tour de France Femmes",
+        "nb": "Tour de France Femmes",
+        "pt": "Tour de France Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-09"
+    },
+    {
+      "name": {
+        "en": "Tour de Pologne",
+        "nl": "Tour de Pologne",
+        "fr": "Tour de Pologne",
+        "de": "Tour de Pologne",
+        "it": "Tour de Pologne",
+        "es": "Tour de Pologne",
+        "da": "Tour de Pologne",
+        "nb": "Tour de Pologne",
+        "pt": "Tour de Pologne"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-09"
+    },
+    {
+      "name": {
+        "en": "Vuelta a Burgos",
+        "nl": "Vuelta a Burgos",
+        "fr": "Vuelta a Burgos",
+        "de": "Vuelta a Burgos",
+        "it": "Vuelta a Burgos",
+        "es": "Vuelta a Burgos",
+        "da": "Vuelta a Burgos",
+        "nb": "Vuelta a Burgos",
+        "pt": "Vuelta a Burgos"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-08"
+    },
+    {
+      "name": {
+        "en": "Arctic Race of Norway",
+        "nl": "Arctic Race of Norway",
+        "fr": "Arctic Race of Norway",
+        "de": "Arctic Race of Norway",
+        "it": "Arctic Race of Norway",
+        "es": "Arctic Race of Norway",
+        "da": "Arctic Race of Norway",
+        "nb": "Arctic Race of Norway",
+        "pt": "Arctic Race of Norway"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-16"
+    },
+    {
+      "name": {
+        "en": "Czech Tour",
+        "nl": "Czech Tour",
+        "fr": "Czech Tour",
+        "de": "Czech Tour",
+        "it": "Czech Tour",
+        "es": "Czech Tour",
+        "da": "Czech Tour",
+        "nb": "Czech Tour",
+        "pt": "Czech Tour"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-13",
+      "end_date": "2026-08-16"
+    },
+    {
+      "name": {
+        "en": "Hamburg Cyclassics",
+        "nl": "Hamburg Cyclassics",
+        "fr": "Hamburg Cyclassics",
+        "de": "Hamburg Cyclassics",
+        "it": "Hamburg Cyclassics",
+        "es": "Hamburg Cyclassics",
+        "da": "Hamburg Cyclassics",
+        "nb": "Hamburg Cyclassics",
+        "pt": "Hamburg Cyclassics"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-08-16",
+      "end_date": "2026-08-16"
+    },
+    {
+      "name": {
+        "en": "Deutschland Tour",
+        "nl": "Deutschland Tour",
+        "fr": "Deutschland Tour",
+        "de": "Deutschland Tour",
+        "it": "Deutschland Tour",
+        "es": "Deutschland Tour",
+        "da": "Deutschland Tour",
+        "nb": "Deutschland Tour",
+        "pt": "Deutschland Tour"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-23"
+    },
+    {
+      "name": {
+        "en": "Renewi Tour",
+        "nl": "Renewi Tour",
+        "fr": "Renewi Tour",
+        "de": "Renewi Tour",
+        "it": "Renewi Tour",
+        "es": "Renewi Tour",
+        "da": "Renewi Tour",
+        "nb": "Renewi Tour",
+        "pt": "Renewi Tour"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-23"
+    },
+    {
+      "name": {
+        "en": "Tour of Britain Women",
+        "nl": "Tour of Britain Women",
+        "fr": "Tour of Britain Women",
+        "de": "Tour of Britain Women",
+        "it": "Tour of Britain Women",
+        "es": "Tour of Britain Women",
+        "da": "Tour of Britain Women",
+        "nb": "Tour of Britain Women",
+        "pt": "Tour of Britain Women"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-23"
+    },
+    {
+      "name": {
+        "en": "GP Lucien Van Impe",
+        "nl": "GP Lucien Van Impe",
+        "fr": "GP Lucien Van Impe",
+        "de": "GP Lucien Van Impe",
+        "it": "GP Lucien Van Impe",
+        "es": "GP Lucien Van Impe",
+        "da": "GP Lucien Van Impe",
+        "nb": "GP Lucien Van Impe",
+        "pt": "GP Lucien Van Impe"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-20"
+    },
+    {
+      "name": {
+        "en": "Vuelta a España",
+        "nl": "Ronde van Spanje",
+        "fr": "Tour d'Espagne",
+        "de": "Spanien-Rundfahrt",
+        "it": "Vuelta di Spagna",
+        "es": "Vuelta a España",
+        "da": "Vuelta a España",
+        "nb": "Vuelta a España",
+        "pt": "Volta à Espanha"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-08-22",
+      "end_date": "2026-09-13"
+    },
+    {
+      "name": {
+        "en": "Classic Lorient Agglomération",
+        "nl": "Classic Lorient Agglomération",
+        "fr": "Classic Lorient Agglomération",
+        "de": "Classic Lorient Agglomération",
+        "it": "Classic Lorient Agglomération",
+        "es": "Classic Lorient Agglomération",
+        "da": "Classic Lorient Agglomération",
+        "nb": "Classic Lorient Agglomération",
+        "pt": "Classic Lorient Agglomération"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-29"
+    },
+    {
+      "name": {
+        "en": "Bretagne Classic",
+        "nl": "Bretagne Classic",
+        "fr": "Bretagne Classic",
+        "de": "Bretagne Classic",
+        "it": "Bretagne Classic",
+        "es": "Bretagne Classic",
+        "da": "Bretagne Classic",
+        "nb": "Bretagne Classic",
+        "pt": "Bretagne Classic"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-08-30",
+      "end_date": "2026-08-30"
+    },
+    {
+      "name": {
+        "en": "Tour of Britain",
+        "nl": "Tour of Britain",
+        "fr": "Tour of Britain",
+        "de": "Tour of Britain",
+        "it": "Tour of Britain",
+        "es": "Tour of Britain",
+        "da": "Tour of Britain",
+        "nb": "Tour of Britain",
+        "pt": "Tour of Britain"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-06"
+    },
+    {
+      "name": {
+        "en": "Tour de Romandie Féminin",
+        "nl": "Ronde van Romandie (V)",
+        "fr": "Tour de Romandie Féminin",
+        "de": "Tour de Romandie Frauen",
+        "it": "Tour de Romandie Donne",
+        "es": "Tour de Romandía Femenino",
+        "da": "Tour de Romandie Kvinder",
+        "nb": "Tour de Romandie Kvinner",
+        "pt": "Tour de Romandie Feminino"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-06"
+    },
+    {
+      "name": {
+        "en": "Maryland Cycling Classic",
+        "nl": "Maryland Cycling Classic",
+        "fr": "Maryland Cycling Classic",
+        "de": "Maryland Cycling Classic",
+        "it": "Maryland Cycling Classic",
+        "es": "Maryland Cycling Classic",
+        "da": "Maryland Cycling Classic",
+        "nb": "Maryland Cycling Classic",
+        "pt": "Maryland Cycling Classic"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-07"
+    },
+    {
+      "name": {
+        "en": "GP Industria & Artigianato",
+        "nl": "GP Industria & Artigianato",
+        "fr": "GP Industria & Artigianato",
+        "de": "GP Industria & Artigianato",
+        "it": "GP Industria & Artigianato",
+        "es": "GP Industria & Artigianato",
+        "da": "GP Industria & Artigianato",
+        "nb": "GP Industria & Artigianato",
+        "pt": "GP Industria & Artigianato"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-06"
+    },
+    {
+      "name": {
+        "en": "Pointe du Raz Ladies Classic",
+        "nl": "Pointe du Raz Ladies Classic",
+        "fr": "Pointe du Raz Ladies Classic",
+        "de": "Pointe du Raz Ladies Classic",
+        "it": "Pointe du Raz Ladies Classic",
+        "es": "Pointe du Raz Ladies Classic",
+        "da": "Pointe du Raz Ladies Classic",
+        "nb": "Pointe du Raz Ladies Classic",
+        "pt": "Pointe du Raz Ladies Classic"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-09-06",
+      "end_date": "2026-09-06"
+    },
+    {
+      "name": {
+        "en": "Coppa Sabatini",
+        "nl": "Coppa Sabatini",
+        "fr": "Coppa Sabatini",
+        "de": "Coppa Sabatini",
+        "it": "Coppa Sabatini",
+        "es": "Coppa Sabatini",
+        "da": "Coppa Sabatini",
+        "nb": "Coppa Sabatini",
+        "pt": "Coppa Sabatini"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-10",
+      "end_date": "2026-09-10"
+    },
+    {
+      "name": {
+        "en": "Grand Prix Cycliste de Québec",
+        "nl": "Grand Prix Cycliste de Québec",
+        "fr": "Grand Prix Cycliste de Québec",
+        "de": "Grand Prix Cycliste de Québec",
+        "it": "Grand Prix Cycliste de Québec",
+        "es": "Grand Prix Cycliste de Québec",
+        "da": "Grand Prix Cycliste de Québec",
+        "nb": "Grand Prix Cycliste de Québec",
+        "pt": "Grand Prix Cycliste de Québec"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-11",
+      "end_date": "2026-09-11"
+    },
+    {
+      "name": {
+        "en": "GP de Fourmies",
+        "nl": "GP de Fourmies",
+        "fr": "GP de Fourmies",
+        "de": "GP de Fourmies",
+        "it": "GP de Fourmies",
+        "es": "GP de Fourmies",
+        "da": "GP de Fourmies",
+        "nb": "GP de Fourmies",
+        "pt": "GP de Fourmies"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13"
+    },
+    {
+      "name": {
+        "en": "Grand Prix Cycliste de Montréal",
+        "nl": "Grand Prix Cycliste de Montréal",
+        "fr": "Grand Prix Cycliste de Montréal",
+        "de": "Grand Prix Cycliste de Montréal",
+        "it": "Grand Prix Cycliste de Montréal",
+        "es": "Grand Prix Cycliste de Montréal",
+        "da": "Grand Prix Cycliste de Montréal",
+        "nb": "Grand Prix Cycliste de Montréal",
+        "pt": "Grand Prix Cycliste de Montréal"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13"
+    },
+    {
+      "name": {
+        "en": "La Choralis Fourmies Féminine",
+        "nl": "La Choralis Fourmies Féminine",
+        "fr": "La Choralis Fourmies Féminine",
+        "de": "La Choralis Fourmies Féminine",
+        "it": "La Choralis Fourmies Féminine",
+        "es": "La Choralis Fourmies Féminine",
+        "da": "La Choralis Fourmies Féminine",
+        "nb": "La Choralis Fourmies Féminine",
+        "pt": "La Choralis Fourmies Féminine"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13"
+    },
+    {
+      "name": {
+        "en": "Women's Cycling Grand Prix Stuttgart & Region",
+        "nl": "Women's Cycling Grand Prix Stuttgart & Region",
+        "fr": "Women's Cycling Grand Prix Stuttgart & Region",
+        "de": "Women's Cycling Grand Prix Stuttgart & Region",
+        "it": "Women's Cycling Grand Prix Stuttgart & Region",
+        "es": "Women's Cycling Grand Prix Stuttgart & Region",
+        "da": "Women's Cycling Grand Prix Stuttgart & Region",
+        "nb": "Women's Cycling Grand Prix Stuttgart & Region",
+        "pt": "Women's Cycling Grand Prix Stuttgart & Region"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13"
+    },
+    {
+      "name": {
+        "en": "GP de Wallonie",
+        "nl": "GP de Wallonie",
+        "fr": "GP de Wallonie",
+        "de": "GP de Wallonie",
+        "it": "GP de Wallonie",
+        "es": "GP de Wallonie",
+        "da": "GP de Wallonie",
+        "nb": "GP de Wallonie",
+        "pt": "GP de Wallonie"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-16"
+    },
+    {
+      "name": {
+        "en": "Tour de Luxembourg",
+        "nl": "Tour de Luxembourg",
+        "fr": "Tour de Luxembourg",
+        "de": "Tour de Luxembourg",
+        "it": "Tour de Luxembourg",
+        "es": "Tour de Luxembourg",
+        "da": "Tour de Luxembourg",
+        "nb": "Tour de Luxembourg",
+        "pt": "Tour de Luxembourg"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-09-16",
+      "end_date": "2026-09-20"
+    },
+    {
+      "name": {
+        "en": "Super 8 Classic",
+        "nl": "Super 8 Classic",
+        "fr": "Super 8 Classic",
+        "de": "Super 8 Classic",
+        "it": "Super 8 Classic",
+        "es": "Super 8 Classic",
+        "da": "Super 8 Classic",
+        "nb": "Super 8 Classic",
+        "pt": "Super 8 Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-19"
+    },
+    {
+      "name": {
+        "en": "CRO Race",
+        "nl": "CRO Race",
+        "fr": "CRO Race",
+        "de": "CRO Race",
+        "it": "CRO Race",
+        "es": "CRO Race",
+        "da": "CRO Race",
+        "nb": "CRO Race",
+        "pt": "CRO Race"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-09-22",
+      "end_date": "2026-09-27"
+    },
+    {
+      "name": {
+        "en": "Tour de Langkawi",
+        "nl": "Tour de Langkawi",
+        "fr": "Tour de Langkawi",
+        "de": "Tour de Langkawi",
+        "it": "Tour de Langkawi",
+        "es": "Tour de Langkawi",
+        "da": "Tour de Langkawi",
+        "nb": "Tour de Langkawi",
+        "pt": "Tour de Langkawi"
+      },
+      "category": "2.Pro",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-09-27",
+      "end_date": "2026-10-04"
+    },
+    {
+      "name": {
+        "en": "Giro dell'Emilia",
+        "nl": "Giro dell'Emilia",
+        "fr": "Giro dell'Emilia",
+        "de": "Giro dell'Emilia",
+        "it": "Giro dell'Emilia",
+        "es": "Giro dell'Emilia",
+        "da": "Giro dell'Emilia",
+        "nb": "Giro dell'Emilia",
+        "pt": "Giro dell'Emilia"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03"
+    },
+    {
+      "name": {
+        "en": "Münsterland Giro",
+        "nl": "Münsterland Giro",
+        "fr": "Münsterland Giro",
+        "de": "Münsterland Giro",
+        "it": "Münsterland Giro",
+        "es": "Münsterland Giro",
+        "da": "Münsterland Giro",
+        "nb": "Münsterland Giro",
+        "pt": "Münsterland Giro"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03"
+    },
+    {
+      "name": {
+        "en": "Giro dell'Emilia Internazionale Donne Elite",
+        "nl": "Giro dell'Emilia Internazionale Donne Elite",
+        "fr": "Giro dell'Emilia Internazionale Donne Elite",
+        "de": "Giro dell'Emilia Internazionale Donne Elite",
+        "it": "Giro dell'Emilia Internazionale Donne Elite",
+        "es": "Giro dell'Emilia Internazionale Donne Elite",
+        "da": "Giro dell'Emilia Internazionale Donne Elite",
+        "nb": "Giro dell'Emilia Internazionale Donne Elite",
+        "pt": "Giro dell'Emilia Internazionale Donne Elite"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03"
+    },
+    {
+      "name": {
+        "en": "Coppa Bernocchi",
+        "nl": "Coppa Bernocchi",
+        "fr": "Coppa Bernocchi",
+        "de": "Coppa Bernocchi",
+        "it": "Coppa Bernocchi",
+        "es": "Coppa Bernocchi",
+        "da": "Coppa Bernocchi",
+        "nb": "Coppa Bernocchi",
+        "pt": "Coppa Bernocchi"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-05"
+    },
+    {
+      "name": {
+        "en": "Tre Valli Varesine",
+        "nl": "Tre Valli Varesine",
+        "fr": "Tre Valli Varesine",
+        "de": "Tre Valli Varesine",
+        "it": "Tre Valli Varesine",
+        "es": "Tre Valli Varesine",
+        "da": "Tre Valli Varesine",
+        "nb": "Tre Valli Varesine",
+        "pt": "Tre Valli Varesine"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-06"
+    },
+    {
+      "name": {
+        "en": "Tre Valli Varesine",
+        "nl": "Tre Valli Varesine",
+        "fr": "Tre Valli Varesine",
+        "de": "Tre Valli Varesine",
+        "it": "Tre Valli Varesine",
+        "es": "Tre Valli Varesine",
+        "da": "Tre Valli Varesine",
+        "nb": "Tre Valli Varesine",
+        "pt": "Tre Valli Varesine"
+      },
+      "category": "1.Pro",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-10-06",
+      "end_date": "2026-10-06"
+    },
+    {
+      "name": {
+        "en": "Gran Piemonte",
+        "nl": "Gran Piemonte",
+        "fr": "Gran Piemonte",
+        "de": "Gran Piemonte",
+        "it": "Gran Piemonte",
+        "es": "Gran Piemonte",
+        "da": "Gran Piemonte",
+        "nb": "Gran Piemonte",
+        "pt": "Gran Piemonte"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-08",
+      "end_date": "2026-10-08"
+    },
+    {
+      "name": {
+        "en": "Il Lombardia",
+        "nl": "Ronde van Lombardije",
+        "fr": "Tour de Lombardie",
+        "de": "Lombardei-Rundfahrt",
+        "it": "Il Lombardia",
+        "es": "Tour de Lombardía",
+        "da": "Tour de Lombardiet",
+        "nb": "Tour de Lombardiet",
+        "pt": "Tour da Lombardia"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-10"
+    },
+    {
+      "name": {
+        "en": "Paris–Tours",
+        "nl": "Paris–Tours",
+        "fr": "Paris–Tours",
+        "de": "Paris–Tours",
+        "it": "Paris–Tours",
+        "es": "Paris–Tours",
+        "da": "Paris–Tours",
+        "nb": "Paris–Tours",
+        "pt": "Paris–Tours"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-11",
+      "end_date": "2026-10-11"
+    },
+    {
+      "name": {
+        "en": "Tour of Guangxi",
+        "nl": "Tour of Guangxi",
+        "fr": "Tour of Guangxi",
+        "de": "Tour of Guangxi",
+        "it": "Tour of Guangxi",
+        "es": "Tour of Guangxi",
+        "da": "Tour of Guangxi",
+        "nb": "Tour of Guangxi",
+        "pt": "Tour of Guangxi"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-18"
+    },
+    {
+      "name": {
+        "en": "Tour of Chongming Island",
+        "nl": "Tour of Chongming Island",
+        "fr": "Tour of Chongming Island",
+        "de": "Tour of Chongming Island",
+        "it": "Tour of Chongming Island",
+        "es": "Tour of Chongming Island",
+        "da": "Tour of Chongming Island",
+        "nb": "Tour of Chongming Island",
+        "pt": "Tour of Chongming Island"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-10-13",
+      "end_date": "2026-10-15"
+    },
+    {
+      "name": {
+        "en": "Giro del Veneto",
+        "nl": "Giro del Veneto",
+        "fr": "Giro del Veneto",
+        "de": "Giro del Veneto",
+        "it": "Giro del Veneto",
+        "es": "Giro del Veneto",
+        "da": "Giro del Veneto",
+        "nb": "Giro del Veneto",
+        "pt": "Giro del Veneto"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-14",
+      "end_date": "2026-10-14"
+    },
+    {
+      "name": {
+        "en": "Veneto Classic",
+        "nl": "Veneto Classic",
+        "fr": "Veneto Classic",
+        "de": "Veneto Classic",
+        "it": "Veneto Classic",
+        "es": "Veneto Classic",
+        "da": "Veneto Classic",
+        "nb": "Veneto Classic",
+        "pt": "Veneto Classic"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18"
+    },
+    {
+      "name": {
+        "en": "Japan Cup",
+        "nl": "Japan Cup",
+        "fr": "Japan Cup",
+        "de": "Japan Cup",
+        "it": "Japan Cup",
+        "es": "Japan Cup",
+        "da": "Japan Cup",
+        "nb": "Japan Cup",
+        "pt": "Japan Cup"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18"
+    },
+    {
+      "name": {
+        "en": "Tour of Guangxi",
+        "nl": "Tour of Guangxi",
+        "fr": "Tour of Guangxi",
+        "de": "Tour of Guangxi",
+        "it": "Tour of Guangxi",
+        "es": "Tour of Guangxi",
+        "da": "Tour of Guangxi",
+        "nb": "Tour of Guangxi",
+        "pt": "Tour of Guangxi"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-10-18",
+      "end_date": "2026-10-18"
+    }
+  ]
+}

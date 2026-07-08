@@ -1,0 +1,90 @@
+{
+  "year": 2026,
+  "last_updated": "2026-01-15",
+  "races": [
+    {
+      "name": {
+        "en": "Tour de France",
+        "nl": "Ronde van Frankrijk",
+        "fr": "Tour de France"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-26"
+    },
+    {
+      "name": {
+        "en": "Giro d'Italia",
+        "nl": "Ronde van Italië",
+        "it": "Giro d'Italia"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "stage_race",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-31"
+    },
+    {
+      "name": {
+        "en": "Tour of Flanders",
+        "nl": "Ronde van Vlaanderen",
+        "fr": "Tour des Flandres"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-05",
+      "end_date": "2026-04-05"
+    },
+    {
+      "name": {
+        "en": "Paris-Roubaix",
+        "nl": "Parijs-Roubaix",
+        "fr": "Paris-Roubaix"
+      },
+      "category": "WT",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-12",
+      "end_date": "2026-04-12"
+    },
+    {
+      "name": {
+        "en": "Tour de France Femmes",
+        "nl": "Tour de France Femmes",
+        "fr": "Tour de France Femmes"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "stage_race",
+      "start_date": "2026-07-27",
+      "end_date": "2026-08-03"
+    },
+    {
+      "name": {
+        "en": "Tour of Flanders Women",
+        "nl": "Ronde van Vlaanderen (V)",
+        "fr": "Tour des Flandres Femmes"
+      },
+      "category": "WT",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-04-05",
+      "end_date": "2026-04-05"
+    },
+    {
+      "name": {
+        "en": "Dwars door Vlaanderen",
+        "nl": "Dwars door Vlaanderen",
+        "fr": "À travers la Flandre"
+      },
+      "category": "1.Pro",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-04-01",
+      "end_date": "2026-04-01"
+    }
+  ]
+}
