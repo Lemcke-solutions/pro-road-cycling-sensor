@@ -245,17 +245,7 @@ Race names can include translations for any of the supported languages: `en`, `n
 
 ### Updating for a new season
 
-To regenerate the calendar for the next year, run the scraper script (not included in this repo):
-
-```bash
-pip install requests beautifulsoup4
-python3 fetch_cycling_races.py --year 2027 \
-  --output custom_components/pro_road_cycling/cycling_races.json
-```
-
-Sources: Wikipedia (UCI WorldTour, UCI Women's WorldTour, UCI ProSeries, UCI Women's ProSeries).
-
-After updating, reload the integration via **Settings → Integrations → Pro Road Cycling Sensor → Reload**.
+The calendar will be updated in this repository at the start of each new season. After pulling the latest version, reload the integration via **Settings → Integrations → Pro Road Cycling Sensor → Reload**.
 
 ---
 
