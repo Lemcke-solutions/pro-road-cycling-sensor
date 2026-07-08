@@ -165,22 +165,55 @@ action:
 
 ---
 
-### Example 3 — Only WorldTour men's races
+### Example 3 — WorldTour men: today's race or next upcoming
+
+Reports today's WT men's race(s), including days remaining for stage races. Falls back to the next upcoming race if nothing is on today.
 
 ```yaml
-message: >
-  {%- set next_wt = states.sensor
-      | selectattr('entity_id', 'match', '^sensor\\.next_road_.*_wt_men_')
-      | rejectattr('state', 'in', ['unknown', 'unavailable'])
-      | sort(attribute='state')
-      | first | default(none) %}
-  {%- if next_wt %}
-    {%- set days = next_wt.state | int %}
-  Volgende WT-mannenkoers: {{ state_attr(next_wt.entity_id, 'race_name') }}
-  over {{ days }} dag{{ 'en' if days != 1 else '' }}.
-  {%- else %}
-  Geen aankomende WorldTour mannenkoersen.
-  {%- endif %}
+alias: WT men cycling update
+trigger:
+  - platform: time
+    at: "07:00:00"
+action:
+  - action: notify.mobile_app_my_phone
+    data:
+      message: >
+        {%- set current = states.sensor
+            | selectattr('entity_id', 'match', '^sensor\\.current_road_.*_wt_men_')
+            | rejectattr('state', 'in', ['unknown', 'unavailable'])
+            | list -%}
+        {%- if current | length == 1 %}
+          {%- set s = current[0] %}
+          {%- set days = s.state | int %}
+        Today the {{ state_attr(s.entity_id, 'race_name') }} is on
+          {%- if state_attr(s.entity_id, 'race_type') == 'stage_race' %}, {{ days }} day{{ 's' if days != 1 else '' }} remaining{% endif %}.
+        {%- elif current | length > 1 %}
+        Today there are {{ current | length }} WT men's races:
+          {%- for s in current %}
+            {%- set days = s.state | int %}
+        • {{ state_attr(s.entity_id, 'race_name') }}
+            {%- if state_attr(s.entity_id, 'race_type') == 'stage_race' %} ({{ days }} day{{ 's' if days != 1 else '' }} remaining){% endif %}
+          {%- endfor %}
+        {%- else %}
+          {%- set upcoming = states.sensor
+              | selectattr('entity_id', 'match', '^sensor\\.next_road_.*_wt_men_')
+              | rejectattr('state', 'in', ['unknown', 'unavailable'])
+              | list %}
+          {%- set ns = namespace(best=none, best_days=9999) %}
+          {%- for s in upcoming %}
+            {%- set d = s.state | int %}
+            {%- if d < ns.best_days %}
+              {%- set ns.best = s %}
+              {%- set ns.best_days = d %}
+            {%- endif %}
+          {%- endfor %}
+          {%- if ns.best %}
+            {%- set days = ns.best_days %}
+        The next WT men's race is {{ state_attr(ns.best.entity_id, 'race_name') }} in {{ days }} day{{ 's' if days != 1 else '' }}.
+          {%- else %}
+        No upcoming WT men's races scheduled.
+          {%- endif %}
+        {%- endif %}
 ```
 
 ---
