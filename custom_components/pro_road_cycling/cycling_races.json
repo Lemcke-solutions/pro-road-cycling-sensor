@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-09-14",
   "races": [
     {
       "name": {
@@ -2308,6 +2308,42 @@
     },
     {
       "name": {
+        "en": "UCI Road World Championships – Individual Time Trial",
+        "nl": "WK wielrennen – tijdrit",
+        "fr": "Championnats du monde de cyclisme sur route – contre-la-montre",
+        "de": "Straßenrad-Weltmeisterschaft – Einzelzeitfahren",
+        "it": "Campionati del mondo di ciclismo su strada – cronometro individuale",
+        "es": "Campeonato del Mundo de Ciclismo en Ruta – contrarreloj individual",
+        "da": "VM i landevejscykling – enkeltstart",
+        "nb": "VM i landeveissykling – tempo",
+        "pt": "Campeonato do Mundo de Ciclismo de Estrada – Contrarrelógio Individual"
+      },
+      "category": "WC",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20"
+    },
+    {
+      "name": {
+        "en": "UCI Road World Championships – Individual Time Trial Women",
+        "nl": "WK wielrennen – tijdrit (V)",
+        "fr": "Championnats du monde de cyclisme sur route – contre-la-montre Femmes",
+        "de": "Straßenrad-Weltmeisterschaft – Einzelzeitfahren Frauen",
+        "it": "Campionati del mondo di ciclismo su strada – cronometro individuale Donne",
+        "es": "Campeonato del Mundo de Ciclismo en Ruta – contrarreloj individual Femenino",
+        "da": "VM i landevejscykling – enkeltstart Kvinder",
+        "nb": "VM i landeveissykling – tempo Kvinner",
+        "pt": "Campeonato do Mundo de Ciclismo de Estrada – Contrarrelógio Individual Feminino"
+      },
+      "category": "WC",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20"
+    },
+    {
+      "name": {
         "en": "CRO Race",
         "nl": "CRO Race",
         "fr": "CRO Race",
@@ -2322,6 +2358,42 @@
       "gender": "men",
       "type": "stage_race",
       "start_date": "2026-09-22",
+      "end_date": "2026-09-27"
+    },
+    {
+      "name": {
+        "en": "UCI Road World Championships – Road Race Women",
+        "nl": "WK wielrennen – wegwedstrijd (V)",
+        "fr": "Championnats du monde de cyclisme sur route – course en ligne Femmes",
+        "de": "Straßenrad-Weltmeisterschaft – Straßenrennen Frauen",
+        "it": "Campionati del mondo di ciclismo su strada – prova in linea Donne",
+        "es": "Campeonato del Mundo de Ciclismo en Ruta – prueba en línea Femenino",
+        "da": "VM i landevejscykling – linjeløb Kvinder",
+        "nb": "VM i landeveissykling – fellesstart Kvinner",
+        "pt": "Campeonato do Mundo de Ciclismo de Estrada – Prova em Linha Feminino"
+      },
+      "category": "WC",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-09-26",
+      "end_date": "2026-09-26"
+    },
+    {
+      "name": {
+        "en": "UCI Road World Championships – Road Race",
+        "nl": "WK wielrennen – wegwedstrijd",
+        "fr": "Championnats du monde de cyclisme sur route – course en ligne",
+        "de": "Straßenrad-Weltmeisterschaft – Straßenrennen",
+        "it": "Campionati del mondo di ciclismo su strada – prova in linea",
+        "es": "Campeonato del Mundo de Ciclismo en Ruta – prueba en línea",
+        "da": "VM i landevejscykling – linjeløb",
+        "nb": "VM i landeveissykling – fellesstart",
+        "pt": "Campeonato do Mundo de Ciclismo de Estrada – Prova em Linha"
+      },
+      "category": "WC",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-09-27",
       "end_date": "2026-09-27"
     },
     {

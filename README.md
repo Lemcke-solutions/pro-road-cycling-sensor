@@ -9,7 +9,7 @@ The integration reads `cycling_races.json` (bundled in the integration directory
 - **`current_road_*`** — races happening **today**; state = days remaining (0 on the last day)
 - **`next_road_*`** — upcoming races sorted by start date; state = days until start
 
-The number of slots per group is calculated automatically from the calendar data. Race names are displayed in the language configured in your Home Assistant instance. Sensors are grouped into devices per category and gender (e.g. **Pro Road Cycling — WT Men**, **Pro Road Cycling — WT Women**, **Pro Road Cycling — 1.Pro Men**, …), all listed under the Lemcke Solutions manufacturer.
+The number of slots per group is calculated automatically from the calendar data. Race names are displayed in the language configured in your Home Assistant instance. Sensors are grouped into devices per category and gender (e.g. **Pro Road Cycling — WT Men**, **Pro Road Cycling — WT Women**, **Pro Road Cycling — 1.Pro Men**, **Pro Road Cycling — WC Men**, …), all listed under the Lemcke Solutions manufacturer.
 
 ### Sensor naming
 
@@ -21,7 +21,7 @@ sensor.{status}_road_{type}_{category}_{gender}_{slot}
 |---|---|
 | `status` | `current` or `next` |
 | `type` | `oneday` or `stage` |
-| `category` | `wt`, `1pro`, `2pro`, … |
+| `category` | `wt`, `1pro`, `2pro`, `wc`, … |
 | `gender` | `men` or `women` |
 | `slot` | `1`, `2`, … |
 
@@ -33,6 +33,7 @@ sensor.{status}_road_{type}_{category}_{gender}_{slot}
 | `sensor.current_road_stage_wt_men_1` | WorldTour men's stage race currently in progress |
 | `sensor.next_road_oneday_wt_women_1` | Next upcoming WorldTour women's one-day race |
 | `sensor.next_road_stage_1pro_men_2` | Second upcoming 1.Pro men's stage race |
+| `sensor.next_road_oneday_wc_women_1` | Next upcoming UCI World Championships women's race |
 
 A slot with no race assigned has state `unknown`.
 
@@ -41,7 +42,7 @@ A slot with no race assigned has state `unknown`.
 | Attribute | Description |
 |---|---|
 | `race_name` | Race name in your HA language |
-| `category` | UCI category (`WT`, `1.Pro`, `2.Pro`, …) |
+| `category` | UCI category (`WT`, `1.Pro`, `2.Pro`, `WC`, …) |
 | `gender` | `men` or `women` |
 | `race_type` | `one_day` or `stage_race` |
 | `start_date` | ISO date (YYYY-MM-DD) |
@@ -220,7 +221,7 @@ action:
 
 ## Race calendar
 
-The integration ships with a bundled `cycling_races.json` that contains the race calendar for the current season. This file is maintained in the repository and covers UCI WorldTour, UCI Women's WorldTour, UCI ProSeries and UCI Women's ProSeries races.
+The integration ships with a bundled `cycling_races.json` that contains the race calendar for the current season. This file is maintained in the repository and covers UCI WorldTour, UCI Women's WorldTour, UCI ProSeries, UCI Women's ProSeries races and the UCI Road World Championships (category `WC`).
 
 ### Something missing or incorrect?
 
