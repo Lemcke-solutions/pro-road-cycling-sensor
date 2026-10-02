@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-10-02",
   "races": [
     {
       "name": {
@@ -2470,6 +2470,42 @@
     },
     {
       "name": {
+        "en": "UEC Road European Championships – Road Race Women",
+        "nl": "EK wielrennen – wegwedstrijd (V)",
+        "fr": "Championnats d'Europe de cyclisme sur route – course en ligne Femmes",
+        "de": "Straßenrad-Europameisterschaft – Straßenrennen Frauen",
+        "it": "Campionati europei di ciclismo su strada – prova in linea Donne",
+        "es": "Campeonato de Europa de Ciclismo en Ruta – prueba en línea Femenino",
+        "da": "EM i landevejscykling – linjeløb Kvinder",
+        "nb": "EM i landeveissykling – fellesstart Kvinner",
+        "pt": "Campeonato da Europa de Ciclismo de Estrada – Prova em Linha Feminino"
+      },
+      "category": "EC",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-03"
+    },
+    {
+      "name": {
+        "en": "UEC Road European Championships – Road Race",
+        "nl": "EK wielrennen – wegwedstrijd",
+        "fr": "Championnats d'Europe de cyclisme sur route – course en ligne",
+        "de": "Straßenrad-Europameisterschaft – Straßenrennen",
+        "it": "Campionati europei di ciclismo su strada – prova in linea",
+        "es": "Campeonato de Europa de Ciclismo en Ruta – prueba en línea",
+        "da": "EM i landevejscykling – linjeløb",
+        "nb": "EM i landeveissykling – fellesstart",
+        "pt": "Campeonato da Europa de Ciclismo de Estrada – Prova em Linha"
+      },
+      "category": "EC",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-04"
+    },
+    {
+      "name": {
         "en": "Coppa Bernocchi",
         "nl": "Coppa Bernocchi",
         "fr": "Coppa Bernocchi",
@@ -2521,6 +2557,42 @@
       "type": "one_day",
       "start_date": "2026-10-06",
       "end_date": "2026-10-06"
+    },
+    {
+      "name": {
+        "en": "UEC Road European Championships – Individual Time Trial",
+        "nl": "EK wielrennen – tijdrit",
+        "fr": "Championnats d'Europe de cyclisme sur route – contre-la-montre",
+        "de": "Straßenrad-Europameisterschaft – Einzelzeitfahren",
+        "it": "Campionati europei di ciclismo su strada – cronometro individuale",
+        "es": "Campeonato de Europa de Ciclismo en Ruta – contrarreloj individual",
+        "da": "EM i landevejscykling – enkeltstart",
+        "nb": "EM i landeveissykling – tempo",
+        "pt": "Campeonato da Europa de Ciclismo de Estrada – Contrarrelógio Individual"
+      },
+      "category": "EC",
+      "gender": "men",
+      "type": "one_day",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07"
+    },
+    {
+      "name": {
+        "en": "UEC Road European Championships – Individual Time Trial Women",
+        "nl": "EK wielrennen – tijdrit (V)",
+        "fr": "Championnats d'Europe de cyclisme sur route – contre-la-montre Femmes",
+        "de": "Straßenrad-Europameisterschaft – Einzelzeitfahren Frauen",
+        "it": "Campionati europei di ciclismo su strada – cronometro individuale Donne",
+        "es": "Campeonato de Europa de Ciclismo en Ruta – contrarreloj individual Femenino",
+        "da": "EM i landevejscykling – enkeltstart Kvinder",
+        "nb": "EM i landeveissykling – tempo Kvinner",
+        "pt": "Campeonato da Europa de Ciclismo de Estrada – Contrarrelógio Individual Feminino"
+      },
+      "category": "EC",
+      "gender": "women",
+      "type": "one_day",
+      "start_date": "2026-10-07",
+      "end_date": "2026-10-07"
     },
     {
       "name": {
