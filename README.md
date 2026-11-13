@@ -222,7 +222,7 @@ action:
 
 ## Race calendar
 
-The integration ships with a bundled `cycling_races.json` that contains the race calendar for the current season. This file is maintained in the repository and covers UCI WorldTour, UCI Women's WorldTour, UCI ProSeries, UCI Women's ProSeries races, the UCI Road World Championships (category `WC`) and the UEC Road European Championships (category `EC`).
+The integration ships with a bundled `cycling_races.json` that contains the race calendar for the current season. This file is maintained in the repository and covers UCI WorldTour, UCI Women's WorldTour, UCI ProSeries, UCI Women's ProSeries races (the 2027 Women's ProSeries will be added once the UCI publishes it), the UCI Road World Championships (category `WC`) and the UEC Road European Championships (category `EC`).
 
 ### Something missing or incorrect?
 
@@ -238,8 +238,8 @@ If a race is missing, has wrong dates, or is categorised incorrectly, feel free 
   "category": "WT",
   "gender": "men",
   "type": "stage_race",
-  "start_date": "2026-07-04",
-  "end_date": "2026-07-26"
+  "start_date": "2027-07-02",
+  "end_date": "2027-07-25"
 }
 ```
 
